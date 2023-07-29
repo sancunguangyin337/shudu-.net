@@ -1,0 +1,15 @@
+C:\Users\bxca3\source\repos\数独\bin\Debug\数独.exe.config
+C:\Users\bxca3\source\repos\数独\bin\Debug\数独.exe
+C:\Users\bxca3\source\repos\数独\bin\Debug\数独.pdb
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.csproj.AssemblyReference.cache
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.Form1.resources
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.Properties.Resources.resources
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.csproj.GenerateResource.cache
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.csproj.CoreCompileInputs.cache
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.exe
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.pdb
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.Form2.resources
+C:\Users\bxca3\source\repos\数独\bin\Debug\数独.exe.manifest
+C:\Users\bxca3\source\repos\数独\bin\Debug\数独.application
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.exe.manifest
+C:\Users\bxca3\source\repos\数独\obj\Debug\数独.application
